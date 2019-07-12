@@ -1,0 +1,15 @@
+.class {
+  outline: 1px solid red;
+  padding: 25px;
+}
+div {
+  outline: 1px solid green;
+  height: 250px;
+  width: 200px;
+  /* margin: 0 auto; */
+  margin-left: auto;
+  text-align: right;
+}
+img {
+  width: 100%;
+}
